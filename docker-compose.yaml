@@ -1,0 +1,41 @@
+services:
+  files:
+    image: marieme81/files-image
+    build: ./files
+    volumes:
+      - files:/files
+
+  api:
+    depends_on:
+      - bdd
+    image: api-image
+    build: ./loona-api
+    environment:
+      PATH: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    ports:
+      - 3000:3000
+    volumes:
+      - ./loona-api:/loona-api
+
+  bdd :
+    env_file:
+      - .env
+    image: bdd-image
+    build: ./bdd
+
+  front:
+    depends_on:
+      - api
+      - files
+    image: loonaverse-image
+    build: ./loonaverse
+    environment:
+      API_URL: http://localhost:3000
+    ports:
+      - 4200:4200
+    volumes:
+      - files:/loonaverse/src/assets
+      - ./loonaverse:/loonaverse
+
+volumes:
+  files:
