@@ -1,9 +1,9 @@
+version: "3"
 services:
   files:
-    image: marieme81/files-image
-    build: ./files
+    image: marieme81/media-image
     volumes:
-      - files:/files
+      - media:/files
 
   api:
     depends_on:
@@ -34,8 +34,8 @@ services:
     ports:
       - 4200:4200
     volumes:
-      - files:/loonaverse/src/assets
+      - media:/loonaverse/src/assets
       - ./loonaverse:/loonaverse
 
 volumes:
-  files:
+  media:
