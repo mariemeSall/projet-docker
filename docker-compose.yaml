@@ -2,8 +2,10 @@ version: "3"
 services:
   files:
     image: marieme81/media-image
+    build: ./files
     volumes:
       - media:/files
+      - ./files:/files
 
   api:
     depends_on:
@@ -36,6 +38,7 @@ services:
     volumes:
       - media:/loonaverse/src/assets
       - ./loonaverse:/loonaverse
+      - ./files:/loonaverse/src/assets
 
 volumes:
   media:

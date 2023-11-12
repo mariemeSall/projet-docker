@@ -4,99 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa93a932-0fb3-4fcf-86b4-01962a645671" name="Changes" comment="add files">
-      <change afterPath="$PROJECT_DIR$/bdd/csv/albums2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bdd/csv/songs2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/init.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loona-api" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loonaverse" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bdd/loona.sql" beforeDir="false" afterPath="$PROJECT_DIR$/bdd/loona.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/10_2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/1_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/1_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/5.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/6.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/9.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/So_What.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/butterfly.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/flip_that.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/hi_high.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/loosemble.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/love_evil.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/love_live.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/max_match.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/mix_match.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/ptt.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/why_not.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/albums/yyxy.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/ch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/kr.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/11.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/12.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/1_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/5.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/6.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/9.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/ARTMS.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/loona.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/loossemble.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/oec.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/profils/yyxy.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/1200.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/ADifferentNight.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/AND.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/BeHonest.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/D1.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/DanceOnMyOwn.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/Eclipse.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/Egoist.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/EverydayILoveYou.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/FlipThat.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/GirlsTalk.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/HeartAttack.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/HideNSeek.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/IllBeThere.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/KissLater.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/LetMeIn.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/LoveCherryMotion.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/LoveLetter.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/NeedU.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/New.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/OOPS.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/OneNOnly.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/POSE.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/PTT.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/PaleBlueDot.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/Playback.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/Puzzle.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/SeeSaw.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/SingingInTheRain.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/Star.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/TheJourney.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/Twilight.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/UR.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/Universe.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/ViViD.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/Voice.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/WOW.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/songs/WhyNot.mp3" beforeDir="false" />
+    <list default="true" id="fa93a932-0fb3-4fcf-86b4-01962a645671" name="Changes" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +65,7 @@
       <workItem from="1699583870979" duration="243000" />
       <workItem from="1699584126061" duration="1396000" />
       <workItem from="1699622964676" duration="2484000" />
-      <workItem from="1699628290521" duration="559000" />
+      <workItem from="1699628290521" duration="1489000" />
     </task>
     <task id="LOCAL-00001" summary="initialize">
       <option name="closed" value="true" />
@@ -190,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699584865097</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init">
+      <option name="closed" value="true" />
+      <created>1699629171374</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699629171374</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +130,7 @@
     <MESSAGE value="add missing albums" />
     <MESSAGE value="add missing albums and zip files" />
     <MESSAGE value="add files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add files" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
